@@ -1,3 +1,12 @@
+import asyncio
+import threading
+
+# Force a loop to exist for Python 3.14 compatibility
+try:
+    asyncio.get_event_loop()
+except RuntimeError:
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
 from pyrogram import Client, idle
 from plugins.cb_data import app as Client2
 from config import *

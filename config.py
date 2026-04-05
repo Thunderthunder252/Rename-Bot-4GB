@@ -5,7 +5,7 @@ import os
 API_ID = 37674103
 API_HASH = "f9ecc621ed4865256f94f71a7dd6a1c8"
 BOT_TOKEN = "8709295055:AAFDxRIdEO3upWylyGjHasus9mv_ME0o5ik"
-ADMIN = 6415053610  # This is your ID from the screenshots
+ADMIN = 5767651047# This is your ID from the screenshots
 
 # --- Premium 4GB Renaming Client Config ---
 STRING_SESSION = ""

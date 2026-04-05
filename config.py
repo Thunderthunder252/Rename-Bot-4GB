@@ -4,7 +4,7 @@ import os
 # We removed the 'os.environ' part so the bot uses your numbers/text directly
 API_ID = 37674103
 API_HASH = "f9ecc621ed4865256f94f71a7dd6a1c8"
-BOT_TOKEN = "8699789214:AAGJJLwBeTaqItUm3v4zgIObrVaDIcWFrbA"
+BOT_TOKEN = "8709295055:AAFDxRIdEO3upWylyGjHasus9mv_ME0o5ik"
 ADMIN = 6415053610  # This is your ID from the screenshots
 
 # --- Premium 4GB Renaming Client Config ---
@@ -16,8 +16,8 @@ LOG_CHANNEL = 0
 
 # --- Mongo DB Database Config ---
 # IMPORTANT: You still need to paste a MongoDB URL here for thumbnails to work!
-DATABASE_URL = "PASTE_YOUR_MONGODB_URL_HERE"
-DATABASE_NAME = "madflixbotz"
+DATABASE_URL = "mongodb+srv://vishnusakinala252_db_user:<HArToyA2pCZLo7r4>@thunder.oegtu8l.mongodb.net/?appName=Thunder"
+DATABASE_NAME = "Thunder"
 
 # --- Other Variables Config ---
 START_PIC = "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg"

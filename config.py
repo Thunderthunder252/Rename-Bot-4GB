@@ -16,7 +16,7 @@ LOG_CHANNEL = 0
 
 # --- Mongo DB Database Config ---
 # IMPORTANT: You still need to paste a MongoDB URL here for thumbnails to work!
-DATABASE_URL = "mongodb+srv://vishnusakinala252_db_user:<HArToyA2pCZLo7r4>@thunder.oegtu8l.mongodb.net/?appName=Thunder"
+DATABASE_URL = "mongodb+srv://vishnusakinala252_db_user:HArToyA2pCZLo7r4@thunder.oegtu8l.mongodb.net/?appName=Thunder"
 DATABASE_NAME = "Thunder"
 
 # --- Other Variables Config ---
